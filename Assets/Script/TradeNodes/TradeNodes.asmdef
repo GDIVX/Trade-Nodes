@@ -1,0 +1,16 @@
+{
+    "name": "TradeNodes",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2d29bc2738df1df4696f5c2d6b904d5c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
